@@ -12,6 +12,9 @@
 
      printf("Tyler Engle!\n");
      printf("Computer Engineering\n);
-
+     
+     printf("Mason Piva!\n")
+     printf("Computer Engineering\n")
+            
      return 0;
  }
